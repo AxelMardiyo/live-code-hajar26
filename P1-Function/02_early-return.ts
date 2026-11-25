@@ -1,6 +1,6 @@
 // =============================================================================
 // PERTEMUAN 1: FUNCTION (BAB 4)
-// File    : 02_early-return.ts (Ref: Slide 10)
+// File    : 02_early-return.ts (Ref: Slide 09)
 // Topik   : Return Value & Pola Guard Clause (Early Return)
 // Kaitan  : Melatih menghentikan eksekusi di awal saat kondisi tidak valid.
 //           Langsung terpakai di TODO 5 Final Project saat validasi data kosong.

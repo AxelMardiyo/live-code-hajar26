@@ -1,6 +1,6 @@
 // =============================================================================
 // PERTEMUAN 1: FUNCTION (BAB 4)
-// File    : 03_default-parameter.ts (Ref: Slide 14)
+// File    : 03_default-parameter.ts (Ref: Slide 11)
 // Topik   : Default Parameter - Menyiapkan Nilai Cadangan Otomatis
 // Kaitan  : Digunakan persis pada TODO 1 Final Project:
 //           tambahTugas(judul: string, prioritas: Prioritas = "Sedang")

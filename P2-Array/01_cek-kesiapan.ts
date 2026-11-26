@@ -1,6 +1,6 @@
 // =============================================================================
 // PERTEMUAN 2: ARRAY (BAB 5)
-// File    : 01_cek-kesiapan.ts (Ref: Slide 04)
+// File    : 01_cek-kesiapan.ts (Ref: Slide 03)
 // Topik   : Cek Kesiapan - Array Pertamamu
 // Kaitan  : Pemanasan cepat tipe data array eksplisit (tipe[]) dan aturan zero-indexed.
 //           Menjadi dasar pemahaman untuk deklarasi array database di Final Project.

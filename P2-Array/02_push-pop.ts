@@ -1,6 +1,6 @@
 // =============================================================================
 // PERTEMUAN 2: ARRAY (BAB 5)
-// File    : 02_push-pop.ts (Ref: Slide 13)
+// File    : 02_push-pop.ts (Ref: Slide 09)
 // Topik   : Operasi Belakang - push() & pop()
 // Kaitan  : Operasi inti yang langsung digunakan Anggota 1 pada fungsi
 //           tambahTugas() di Final Project Task Tracker!

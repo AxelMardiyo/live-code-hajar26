@@ -1,6 +1,6 @@
 // =============================================================================
 // PERTEMUAN 2: ARRAY (BAB 5)
-// File    : 03_find-demo.ts (Ref: Slide 22)
+// File    : 03_find-demo.ts (Ref: Slide 15)
 // Topik   : Method find() - Mencari Data Pertama yang Cocok
 // Kaitan  : Logika utama yang digunakan Anggota 3 pada fungsi
 //           selesaikanTugas(idTarget) beserta penanganan jika ID tidak ditemukan.

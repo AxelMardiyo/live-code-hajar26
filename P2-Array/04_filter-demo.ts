@@ -1,6 +1,6 @@
 // =============================================================================
 // PERTEMUAN 2: ARRAY (BAB 5)
-// File    : 04_filter-demo.ts (Ref: Slide 23)
+// File    : 04_filter-demo.ts (Ref: Slide 16)
 // Topik   : Method filter() - Menyaring Koleksi Menjadi Array Baru
 // Kaitan  : Logika utama yang digunakan Anggota 4 (filterByPrioritas)
 //           dan Anggota 5 (hitungStatistikProgres) di Final Project.
